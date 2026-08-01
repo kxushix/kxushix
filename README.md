@@ -1,167 +1,88 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/579fe1183178475.653aa8931b193.gif)
-<h1 align="center">Hi 👋, I'm Anuj Kaushik</h1>
-<h3 align="center">A mobile app developer who loves building seamless and user-friendly digital experiences</h3>
+<div align="center">
 
-<p align="left"> <a href="https://twitter.com/kaushik__aj" target="blank"><img src="https://img.shields.io/twitter/follow/kaushik__aj?logo=twitter&style=for-the-badge" alt="kaushik__aj" /></a> </p>
+<img src="./ascii.svg" width="460" alt="Anuj Kaushik"/>
 
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
+[anujkaushik.in](https://www.anujkaushik.in/) &nbsp;·&nbsp;
+[linkedin](https://www.linkedin.com/in/kxushix/) &nbsp;·&nbsp;
+[twitter](https://twitter.com/kaushik__aj) &nbsp;·&nbsp;
+[email](mailto:work@anujkaushik.in)
 
-- 🔭 I’m currently working on Project **Sync Sketch**
-- 🌱 I’m currently learning **Mobile App Development**
-- 💬 Ask me about **Flutter, Node, MongoDB, AWS**
-- 📫 How to reach me **work@anujkaushik.in**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kaushik__aj" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushik__aj" height="30" width="40" />
-</a>
+<img src="./hd-about.svg" width="620" alt="about"/>
 
-<a href="https://linkedin.com/in/anuj-kaushik-87166a226" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj-kaushik-87166a226" height="30" width="40" />
-</a>
+> SDE Intern @Sensio Enterprises || Flutter Developer | Backend & Real-Time Systems<br>
+> Ex-Intern @Advan Drive, @MediaJedi, @JobToken
 
-<a href="https://instagram.com/kaushik__aj" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushik__aj" height="30" width="40" />
-</a>
+I build production-grade mobile applications and backend systems that are designed to scale.<br>
+I independently built **Mera Nivas** — a complete society management platform.<br>
+I also built **NeoShare** for real-time P2P file transfers and **VibeMap** for location-based social networking.
 
-<a href="https://anujkaushik.in" target="blank">
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" alt="portfolio" height="30" width="30" />
-</a>
-</p>
+<img src="./hd-stack.svg" width="620" alt="stack"/>
 
----
+<samp>flutter &nbsp; dart &nbsp; node.js &nbsp; typescript &nbsp; postgresql &nbsp; mongodb &nbsp; aws &nbsp; firebase &nbsp; docker &nbsp; bloc</samp>
 
-### 📢Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
-</p>
+<img src="./hd-experience.svg" width="620" alt="experience"/>
 
-<h3 align="left">Languages and Tools:</h3>
+**Sensio Enterprises** &nbsp;·&nbsp; <samp>Software Developer Intern</samp><br>
+June 2026 - Present
 
-<p align="left">
+**Advan Drive Technologies** &nbsp;·&nbsp; <samp>Full-stack Developer Intern</samp><br>
+September 2025 - April 2026
 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</a>
+**Mera Nivas** &nbsp;·&nbsp; <samp>Backend Developer</samp><br>
+January 2025 - February 2026
 
-<a href="https://dart.dev" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-</a>
+**MediaJedi** &nbsp;·&nbsp; <samp>Full-stack Developer Intern</samp><br>
+April 2025 - June 2025
 
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-</a>
+**JobToken** &nbsp;·&nbsp; <samp>Flutter Developer Intern</samp><br>
+November 2024 - April 2025
 
-<a href="https://developer.android.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-</a>
+<img src="./hd-projects.svg" width="620" alt="projects"/>
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</a>
+**Mera Nivas** &nbsp;·&nbsp; <samp>flutter, node.js, aws</samp><br>
+Complete society management platform developed end-to-end to production release.<br>
+Features mobile apps, backend architecture, CI/CD pipelines, and core modules.
 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</a>
+**VibeMap** &nbsp;·&nbsp; <samp>flutter, bloc, node.js, postgresql</samp><br>
+Location-based social platform with custom Flutter client and backend infrastructure.<br>
+Real-time API caching, OTA updates, and efficient media handling.
 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-</a>
+**NeoShare** &nbsp;·&nbsp; <samp>flutter</samp><br>
+Real-time peer-to-peer file transfer app with resumable uploads and integrity verification.
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</a>
+<img src="./hd-stats.svg" width="620" alt="stats"/>
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-</a>
+<div align="center">
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</a>
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-</a>
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-</a>
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-</a>
+</div>
 
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
+<img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-</a>
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
 
-</p>
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
 
-
----
-
-## 💼 Experience
-
-**Advan Drive Technologies Pvt. Ltd.** | *Full Stack Developer Intern*
-*September 2025 – Present*
-* Developed scalable mobile features using Flutter/BLOC.
-* Built a multi-role vendor-based delivery system with OTP & Google Sign-In.
-
-**MediaJedi** | *Full Stack Developer Intern*
-*April 2025 – June 2025*
-* Maintained backend services using Node.js and MongoDB.
-* Designed RESTful API logic for mortgage calculators and travel platforms.
-
-**JobToken** | *Flutter Developer Intern*
-*November 2024 – April 2025*
-* Integrated Google Maps API for real-time navigation and toll fare estimation.
-
----
----
-
-
-## 🚀 Featured Projects
-
-### **Mera Nivas** | Full Stack Developer
-*January 2025 – January 2026 | Remote*
-
-**All-in-One Society Management Platform** enabling security control, real-time communication, and streamlined operations for residential communities.
-
-* **Role-Based Backend:** Designed and developed a system supporting Super Admin, Admin, Staff, and Residents with secure access control.
-* **Visitor Management:** Built a system with QR-based pre-approvals, frequent visitors, helper/maid tracking, and attendance logging.
-* **Financial Modules:** Developed maintenance billing, event invoices, payments, settlements, budgets, and analytics.
-* **Subscription Management:** Implemented lifecycle management including plans, renewals, reminders, and automated cron jobs.
-* **Automated CI/CD:** Led end-to-end development and deployment to Play Store and App Store with GitHub Actions.
-
-### **VibeMap** | Flutter & Backend Developer
-*December 2025 – Present*
-
-**Location-based social media mobile app** for real-time discovery and sharing of nearby experiences.
-
-* **Cross-Platform Architecture:** Developed using Flutter with **BLOC** and **Clean Architecture** for modularity and performance.
-* **Backend Infrastructure:** Designed REST APIs using **Node.js** and **PostgreSQL**; deployed via **Docker**, **AWS EC2**, and **NGINX**.
-* **Real-time Features:** Integrated API caching and efficient media handling to optimize user experience.
-* **OTA Updates:** Configured **Shorebird** for seamless code pushes and environment synchronization.
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=ajkaushik9045&show_icons=true&locale=en&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajkaushik9045&theme=radical" />
-</p>
-
-
-
-
-
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
