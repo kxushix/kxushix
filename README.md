@@ -6,7 +6,7 @@
 
 [anujkaushik.in](https://www.anujkaushik.in/) &nbsp;·&nbsp;
 [linkedin](https://www.linkedin.com/in/kxushix/) &nbsp;·&nbsp;
-[twitter](https://twitter.com/kaushik__aj) &nbsp;·&nbsp;
+[twitter](https://twitter.com/kxushix) &nbsp;·&nbsp;
 [email](mailto:work@anujkaushik.in)
 
 </div>
@@ -69,10 +69,3 @@ Real-time peer-to-peer file transfer app with resumable uploads and integrity ve
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
 
-The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
-each graphic draws and inlined as base64. That isn't only for looks: the<br>
-portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
-default monospace is narrower would otherwise see it squeezed.
-
-Language totals cover public repositories only. `year.svg` uses the portrait's<br>
-character ramp: `:` `+` `#` `@`, quiet to loud.
