@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./ascii.svg" width="620" alt="kxushix"/>
+<img src="./ascii.svg" width="460" alt="Anuj Kaushik"/>
+
+<img src="./name.svg" width="460" alt="kxushix"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
@@ -69,8 +71,10 @@ Real-time peer-to-peer file transfer app with resumable uploads and integrity ve
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
 Every graphic here is generated, not embedded from anyone else's server.<br>
-`ascii.svg` is the handle set in JetBrains Mono and pushed through a character<br>
-ramp by [`scripts/make_wordmark.py`](scripts/make_wordmark.py); the stat graphics and<br>
+`ascii.svg` is a photo pushed through a character ramp by<br>
+[`scripts/make_portrait.py`](scripts/make_portrait.py), and `name.svg` is the handle<br>
+set in JetBrains Mono and pushed through the same ramp by<br>
+[`scripts/make_wordmark.py`](scripts/make_wordmark.py); the stat graphics and<br>
 these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
 straight from the GitHub GraphQL API, once a day, committing only what changed.
 
@@ -81,8 +85,8 @@ strips CSS, so an image is the only way to put this page's own typeface on them.
 
 The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
 each graphic draws and inlined as base64. That isn't only for looks: the<br>
-wordmark's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+portrait's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
 default monospace is narrower would otherwise see it squeezed.
 
-Language totals cover public repositories only. `year.svg` uses the wordmark's<br>
+Language totals cover public repositories only. `year.svg` uses the portrait's<br>
 character ramp: `:` `+` `#` `@`, quiet to loud.
