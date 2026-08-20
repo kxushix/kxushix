@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./ascii.svg" width="460" alt="Anuj Kaushik"/>
+<img src="./ascii.svg" width="620" alt="kxushix"/>
 
 <img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
@@ -68,4 +68,21 @@ Real-time peer-to-peer file transfer app with resumable uploads and integrity ve
 
 <img src="./hd-about-this-page.svg" width="620" alt="about this page"/>
 
+Every graphic here is generated, not embedded from anyone else's server.<br>
+`ascii.svg` is the handle set in JetBrains Mono and pushed through a character<br>
+ramp by [`scripts/make_wordmark.py`](scripts/make_wordmark.py); the stat graphics and<br>
+these section headings are drawn by [a scheduled action](.github/workflows/stats.yml)<br>
+straight from the GitHub GraphQL API, once a day, committing only what changed.
 
+They animate with SMIL inside the SVG, because GitHub strips scripts from<br>
+READMEs — and since nothing loads from a third party, nothing here can<br>
+rate-limit or go dark. The headings are SVGs for the same reason: GitHub also<br>
+strips CSS, so an image is the only way to put this page's own typeface on them.
+
+The typeface is [JetBrains Mono](scripts/fonts), subset to just the characters<br>
+each graphic draws and inlined as base64. That isn't only for looks: the<br>
+wordmark's grid assumes an advance width of exactly 0.600 em, and a viewer whose<br>
+default monospace is narrower would otherwise see it squeezed.
+
+Language totals cover public repositories only. `year.svg` uses the wordmark's<br>
+character ramp: `:` `+` `#` `@`, quiet to loud.
